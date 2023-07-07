@@ -1,3 +1,3 @@
 # git_github_basico
 
-<h1>Tutorial Git y Github</h1>
+<h3>Tutorial Git y Github el inicio</h3>
